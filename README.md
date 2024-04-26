@@ -23,6 +23,10 @@ This is a simple web-based clock and alarm application that allows users to view
 - CSS
 - JavaScript
 
+# Output
+
+![Output](https://github.com/SwapnilDJogdand/AlarmClock/assets/89630174/08dcdf45-a957-43b0-a90a-a6b78047119d)
+
 ## Author
 
 SWAPNIL JOGDAND
